@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="app_name">MyJob</string>
+<string name="titulo_app">My Hello Word</string>
+<string name="texto">Welcome</string>
+<string name="button">Enter</string>
+
+</resources>

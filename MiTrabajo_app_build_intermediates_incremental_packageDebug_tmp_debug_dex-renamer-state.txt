@@ -1,0 +1,4 @@
+#Tue Sep 22 21:19:13 UYT 2020
+base.0=/Users/marielasilva/AndroidStudioProjects/MiTrabajo/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
